@@ -1,0 +1,6 @@
+# Install into the project's isolated .venv (not your global Python installation).
+# These versions support Python 3.13 and the current project code.
+numpy>=2.2,<3
+pandas>=2.2,<3
+scikit-learn>=1.7,<2
+matplotlib>=3.9,<4
